@@ -1,0 +1,14 @@
+- Crear aplicación mirelesclase_app
+- comando --> python manage.py startapp mirelesclase_app
+- Creamos el archivo urls.py en mirelesclase_app
+- ![alt text](image.png)
+- En setting.py de p2clase1080 
+- ![alt text](image-1.png)
+- En urls.py de p2clase1080 
+- ![alt text](image-2.png)
+- En urls.py en mirelesclase_app
+- ![alt text](image-3.png)
+- En views.py en mirelesclase_app
+- ![alt text](image-4.png)
+- En urls.py en mirelesclase_app
+- ![alt text](image-5.png)
